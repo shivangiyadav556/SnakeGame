@@ -1,5 +1,3 @@
-Welcome to the Snake Game project! This is a classic Snake game implemented in Java using the Swing framework. Players control a snake to collect food, growing in length with each piece of food collected. The game ends if the snake runs into the walls or itself.
-
 # Snake Game
 
 Welcome to the Snake Game project! This is a classic Snake game implemented in Java using the Swing framework. Players control a snake to collect food, growing in length with each piece of food collected. The game ends if the snake runs into the walls or itself.
@@ -30,7 +28,6 @@ Welcome to the Snake Game project! This is a classic Snake game implemented in J
 ### Installation
 
 1. **Clone the repository:**
-   ```sh
    git clone <repository-url>
 Open the project in Visual Studio Code:
 

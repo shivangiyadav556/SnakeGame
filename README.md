@@ -27,8 +27,6 @@ Welcome to the Snake Game project! This is a classic Snake game implemented in J
 
 ### Installation
 
-1. **Clone the repository:**
-   git clone <repository-url>
 Open the project in Visual Studio Code:
 
 

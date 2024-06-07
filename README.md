@@ -34,19 +34,19 @@ Welcome to the Snake Game project! This is a classic Snake game implemented in J
    git clone <repository-url>
 Open the project in Visual Studio Code:
 
-sh
+
 Copy code
 code Snake
 Compile the project:
 Open the terminal in Visual Studio Code and run:
 
-sh
+
 Copy code
 javac -d bin src/*.java
 Running the Project
 Run the game:
 In the terminal, navigate to the bin directory and run:
-sh
+
 Copy code
 java App
 How to Play
@@ -64,5 +64,5 @@ Key Files:
 
 src/App.java: The main entry point for the application.
 src/SnakeGame.java: Contains the logic for the Snake game.
-.vscode/settings.json: Configuration for the project in Visual Studio Code.
+
 

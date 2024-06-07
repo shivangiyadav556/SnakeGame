@@ -219,17 +219,7 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
             velocityY = 0;
         }
     }
-}
-Configuration
-.vscode/settings.json:
 
-json
-Copy code
-{
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
-}
-This file configures the source and output paths for the Java project in Visual Studio Code.
 
 
 
